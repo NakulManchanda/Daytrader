@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[385, 122]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lbl5SecBarRunning" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Component id="lblPutupName" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lblCurrState" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="lblState" pref="123" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="lblPrevDayData" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblGraph2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblGraph1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblGraph3" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lbl5SecBarSize" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblMrkDataSize" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblHistoricDataGraphSize" alignment="1" max="32767" attributes="0"/>
+                          <Component id="lblPrevDaySize" alignment="1" pref="196" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblPutupName" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblCurrState" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblState" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblGraph1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbl5SecBarSize" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblGraph2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblMrkDataSize" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblGraph3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblHistoricDataGraphSize" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblPrevDayData" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblPrevDaySize" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lbl5SecBarRunning" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblPutupName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A Putup Ticker Code"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCurrState">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Current State:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblState">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="UNKNOWN"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGraph1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5 Sec Bars Graph Size = "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl5SecBarSize">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGraph2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Market Data Graph Size = "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMrkDataSize">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblGraph3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Historic Data Graph Size = "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblHistoricDataGraphSize">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPrevDayData">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Previous Days Graph Size ="/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPrevDaySize">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbl5SecBarRunning">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="66" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="5 Sec Real Time Bars Running"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_CreateCodePost" type="java.lang.String" value="lbl5SecBarRunning.setOpaque(true);"/>
+      </AuxValues>
+    </Component>
+  </SubComponents>
+</Form>

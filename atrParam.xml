@@ -1,0 +1,736 @@
+<?xml version="1.0" ?><ATRParams No="49"><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0030
+</StartValue><EndValue>
+0.0030
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0040
+</StartValue><EndValue>
+0.0040
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0050
+</StartValue><EndValue>
+0.0060
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0060
+</StartValue><EndValue>
+0.0070
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0070
+</StartValue><EndValue>
+0.0080
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0080
+</StartValue><EndValue>
+0.0090
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+UU
+</AtrClass>
+<StartValue>
+0.0090
+</StartValue><EndValue>
+0.0090
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0032
+</StartValue><EndValue>
+0.0032
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0044
+</StartValue><EndValue>
+0.0044
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0060
+</StartValue><EndValue>
+0.0070
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0070
+</StartValue><EndValue>
+0.0080
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0080
+</StartValue><EndValue>
+0.0090
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.0090
+</StartValue><EndValue>
+0.01
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+U
+</AtrClass>
+<StartValue>
+0.01
+</StartValue><EndValue>
+0.01
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.0036
+</StartValue><EndValue>
+0.0036
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.0052
+</StartValue><EndValue>
+0.0052
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.0080
+</StartValue><EndValue>
+0.0090
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.0090
+</StartValue><EndValue>
+0.01
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.01
+</StartValue><EndValue>
+0.011
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.011
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+PA
+</AtrClass>
+<StartValue>
+0.012
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.0038
+</StartValue><EndValue>
+0.0038
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.0056
+</StartValue><EndValue>
+0.0056
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.0090
+</StartValue><EndValue>
+0.01
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.01
+</StartValue><EndValue>
+0.011
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.011
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.012
+</StartValue><EndValue>
+0.013
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+PAP
+</AtrClass>
+<StartValue>
+0.013
+</StartValue><EndValue>
+0.013
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.0040
+</StartValue><EndValue>
+0.0040
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.0060
+</StartValue><EndValue>
+0.0060
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.01
+</StartValue><EndValue>
+0.011
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.011
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.012
+</StartValue><EndValue>
+0.013
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.013
+</StartValue><EndValue>
+0.014
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+PP
+</AtrClass>
+<StartValue>
+0.014
+</StartValue><EndValue>
+0.014
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.0042
+</StartValue><EndValue>
+0.0064
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.0064
+</StartValue><EndValue>
+0.0064
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.011
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.012
+</StartValue><EndValue>
+0.013
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.013
+</StartValue><EndValue>
+0.014
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.014
+</StartValue><EndValue>
+0.015
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+PH
+</AtrClass>
+<StartValue>
+0.015
+</StartValue><EndValue>
+0.015
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+0
+</Time>
+<Time Type="ENDTIME">
+180000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.0042
+</StartValue><EndValue>
+0.0042
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+180000
+</Time>
+<Time Type="ENDTIME">
+360000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.0064
+</StartValue><EndValue>
+0.0064
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+360000
+</Time>
+<Time Type="ENDTIME">
+1800000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.011
+</StartValue><EndValue>
+0.012
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+1800000
+</Time>
+<Time Type="ENDTIME">
+5400000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.012
+</StartValue><EndValue>
+0.013
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+5400000
+</Time>
+<Time Type="ENDTIME">
+9000000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.013
+</StartValue><EndValue>
+0.014
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+9000000
+</Time>
+<Time Type="ENDTIME">
+12600000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.014
+</StartValue><EndValue>
+0.015
+</EndValue>
+</AtrClassValue><AtrClassValue>
+<Time Type="STARTTIME">
+12600000
+</Time>
+<Time Type="ENDTIME">
+23400000
+</Time>
+<AtrClass>
+MH
+</AtrClass>
+<StartValue>
+0.015
+</StartValue><EndValue>
+0.015
+</EndValue>
+</AtrClassValue></ATRParams>
